@@ -1,7 +1,7 @@
 {
   "name": "@c2cswap/c2cswap-sdk",
   "license": "MIT",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "🛠 An SDK for building applications on top of C2CSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
