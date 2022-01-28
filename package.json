@@ -1,8 +1,8 @@
 {
-  "name": "@udotcash/u-exchange-sdk",
+  "name": "@c2cswap/c2cswap-sdk",
   "license": "MIT",
   "version": "1.2.3",
-  "description": "🛠 An SDK for building applications on top of U.EXCHANGE.",
+  "description": "🛠 An SDK for building applications on top of C2CSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antron3000/u-exchange-sdk.git"
+    "url": "git+https://github.com/CONNECT2D-CRYPTO/c2cswap-sdk"
   },
   "keywords": [
-    "u-exchange",
+    "c2cswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -60,11 +60,11 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/UdotCASH/u-exchange-sdk/issues"
+    "url": "https://github.com/CONNECT2D-CRYPTO/c2cswap-sdk/issues"
   },
-  "homepage": "https://github.com/UdotCASH/u-exchange-sdk#readme",
+  "homepage": "https://github.com/CONNECT2D-CRYPTO/c2cswap-sdk#readme",
   "directories": {
     "test": "test"
   },
-  "author": "udotcash"
+  "author": "c2cswap"
 }
